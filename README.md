@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm Jonathan!
+
+I'm an undergraduate computer science student at Georgia Tech with a concentration in Information Internetworks and Intelligence. Apart from loving programming and computers, I enjoy watching sports, weightlifting, and eating.
 
 <!--
 **SleevedCables/SleevedCables** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
